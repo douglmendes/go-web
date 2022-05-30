@@ -1,0 +1,22 @@
+[
+    {
+        "id":"123",
+        "nome":"Funko Spider Man",
+        "cor":"Vermelho",
+        "preco":"129,90",
+        "estoque":"33",
+        "codigo":101020,
+        "publicacao":"Sim",
+        "dt_criacao":"01-01-1900"         
+    },
+    {
+        "id":"123",
+        "nome":"Panela",
+        "cor":"Preto",
+        "preco":"90",
+        "estoque":"55",
+        "codigo":202010,
+        "publicacao":"Não",
+        "dt_criacao":"01-01-1900"         
+    }
+]
